@@ -6,9 +6,9 @@ I'm Siva Sankari Sivakaminathan, a Data Scientist with a passion for extracting 
 
 💡 Programming Languages: Python (Scikit-learn, Pandas, NumPy, TensorFlow/PyTorch)
 
-💡 Databases & Cloud Platforms: SQL, AWS
+💡 Databases & Cloud Platforms: SQL
 
-💡 Data Visualization: Matplotlib, Seaborn,Plotly
+💡 Data Visualization: Matplotlib, Seaborn,Plotly,Copilot
 
 💡 Machine Learning: Supervised & Unsupervised Learning, Deep Learning 
 
