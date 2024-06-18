@@ -10,7 +10,7 @@
 
 💡 Data Visualization: Matplotlib, Seaborn,Plotly,Copilot
 
-💡 Machine Learning: Supervised & Unsupervised Learning, Deep Learning 
+💡 Machine Learning: Supervised & Unsupervised Learning, Deep Learning , Computer Vision and Natural Language Processing
 
 Let's Connect!
 
