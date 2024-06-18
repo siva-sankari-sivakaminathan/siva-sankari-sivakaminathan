@@ -14,7 +14,7 @@ I'm Siva Sankari Sivakaminathan, a Data Scientist with a passion for extracting 
 
 Let's Connect!
 
-🤙 LinkedIn: [(https://www.linkedin.com/in/siva-sankari-sivakaminathan/)]
+🤙 LinkedIn: [(https://www.linkedin.com/in/siva-sankari-sivakaminathan/)] 
 
 🤙 Email: [sankari.s2009@gmail.com]
 
