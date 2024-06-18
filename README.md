@@ -1,6 +1,6 @@
-👋 Hi there! 
+👋 ***Hi there! I'm Siva***
 
-I'm Siva Sankari Sivakaminathan, a Data Scientist with a passion for extracting insights from data to solve real-world problems. I'm proficient in various data science techniques and enjoy wrangling, analyzing, and visualizing data to generate valuable knowledge.
+ A Data Scientist with a passion for extracting insights from data to solve real-world problems. I'm proficient in various data science techniques and enjoy wrangling, analyzing, and visualizing data to generate valuable knowledge.
 
 ⭐ **Skills & Experience**
 
