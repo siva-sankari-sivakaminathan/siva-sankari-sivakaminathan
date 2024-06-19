@@ -14,8 +14,8 @@
 
 Let's Connect!
 
-🤙 LinkedIn: [(https://www.linkedin.com/in/siva-sankari-sivakaminathan/)] 
+👩‍💼 LinkedIn: [(https://www.linkedin.com/in/siva-sankari-sivakaminathan/)] 
 
-🤙 Email: [sankari.s2009@gmail.com]
+📧 Email: [sankari.s2009@gmail.com]
 
 Feel free to reach out if you have any questions or interesting data science projects!
