@@ -1,16 +1,19 @@
 👋 ***Hi there! I'm Siva***
 
- A Data Scientist with a passion for extracting insights from data to solve real-world problems. I'm proficient in various data science techniques and enjoy wrangling, analyzing, and visualizing data to generate valuable knowledge.
+AI Engineer focused on designing **agentic AI systems and production-grade LLM pipelines**.
 
-⭐ **Skills & Experience**
+I work on:
+- Multi-agent orchestration for complex workflows  
+- LLM evaluation and reliability  
+- Domain-specific AI systems (legal + document intelligence)  
 
-💡 Programming Languages: Python (Scikit-learn, Pandas, NumPy, TensorFlow/PyTorch)
+## 🧠 What I’m building
+- End-to-end AI systems (data → reasoning → decision)  
+- Scalable architectures using Azure AI  
+- Frameworks for prompt optimisation and agent design  
 
-💡 Databases & Cloud Platforms: SQL
-
-💡 Data Visualization: Matplotlib, Seaborn,Plotly,Copilot
-
-💡 Machine Learning: Supervised & Unsupervised Learning, Deep Learning , Computer Vision and Natural Language Processing
+## 🎯 Direction
+Moving towards an **AI Lead role**, combining system design, engineering, and real-world impact.
 
 Let's Connect!
 
@@ -18,4 +21,4 @@ Let's Connect!
 
 📧 Email: [sankari.s2009@gmail.com]
 
-Feel free to reach out if you have any questions or interesting data science projects!
+Feel free to reach out if you have any questions or interesting AI projects!
